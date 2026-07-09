@@ -1,6 +1,13 @@
-# 💫 About Me:
-🔭 I'm currently working on AI & Machine Learning projects using Python and Streamlit.<br><br>🤝 I'm looking to collaborate on AI, Machine Learning, and Open Source projects.<br><br>🛠️ I'm looking for help with Deep Learning, MLOps, and Full-Stack AI applications.<br><br>🌱 I'm currently learning Data Structures & Algorithms, Machine Learning, and Generative AI.<br><br>💬 Ask me about Python, Machine Learning, Streamlit, Git, and GitHub.<br><br>⚡ Fun fact: I'm a 3rd-year Computer Science (AI & ML) Engineering student at RNS Institute of Technology, passionate about building AI-powered applications.
+# Hi 👋, I'm Bhoomika C J
 
+🎓 3rd Year B.E. CSE (AI & ML) student at RNS Institute of Technology, Bengaluru
+
+🌱 Currently learning Machine Learning, Deep Learning, and Generative AI
+
+💻 Building AI-powered applications with Python and Streamlit
+
+📫 Reach me on LinkedIn:
+https://www.linkedin.com/in/bhoomika-c-j-ab5101357
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhoomigowdaa__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhoomika-c-j-ab5101357) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhoomigowdab@gmail.com) 
